@@ -169,7 +169,7 @@
     }
   },
   "locks": {},
-  "passwordEnabled": true,
+  "passwordEnabled": false,
   "sneColumnVisible": false,
   "setupPassword": "0000"
 }
