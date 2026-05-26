@@ -169,7 +169,12 @@
     }
   },
   "locks": {},
-  "passwordEnabled": false,
+  "passwordEnabled": true,
   "sneColumnVisible": false,
-  "setupPassword": "0000"
+  "sexColumnVisible": false,
+  "setupPassword": "0000",
+  "studentPasswords": {},
+  "stampImage": "",
+  "stampDate": "",
+  "stampEnabled": true
 }
