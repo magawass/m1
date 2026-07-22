@@ -168,7 +168,34 @@
       "Social/Life": false
     }
   },
-  "locks": {},
+  "locks": {
+    "form1": {
+      "Agriculture": true,
+      "Bible Knowledge": true,
+      "Biology": true,
+      "Chemistry": true,
+      "Chichewa": true,
+      "English": true,
+      "Geography": true,
+      "History": true,
+      "Mathematics": true,
+      "Physics": true,
+      "Social/Life": true
+    },
+    "form3": {
+      "Agriculture": true,
+      "Bible Knowledge": true,
+      "Biology": true,
+      "Chemistry": true,
+      "Chichewa": true,
+      "English": true,
+      "Geography": true,
+      "History": true,
+      "Mathematics": true,
+      "Physics": true,
+      "Social/Life": true
+    }
+  },
   "passwordEnabled": false,
   "sneColumnVisible": false,
   "sexColumnVisible": false,
