@@ -223,7 +223,7 @@
     }
   },
   "passwordEnabled": false,
-  "sneColumnVisible": false,
+  "sneColumnVisible": true,
   "sexColumnVisible": false,
   "setupPassword": "1972",
   "studentPasswords": {
