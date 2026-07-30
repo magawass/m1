@@ -1,4 +1,58 @@
 {
+  "locks": {
+    "form1": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form3": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form2": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form4": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    }
+  },
   "term": "3",
   "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
@@ -168,64 +222,9 @@
       "Social/Life": false
     }
   },
-  "locks": {
-    "form1": {
-      "Agriculture": false,
-      "Bible Knowledge": false,
-      "Biology": false,
-      "Chemistry": false,
-      "Chichewa": false,
-      "English": false,
-      "Geography": false,
-      "History": false,
-      "Mathematics": false,
-      "Physics": false,
-      "Social/Life": false
-    },
-    "form3": {
-      "Agriculture": false,
-      "Bible Knowledge": false,
-      "Biology": false,
-      "Chemistry": false,
-      "Chichewa": false,
-      "English": false,
-      "Geography": false,
-      "History": false,
-      "Mathematics": false,
-      "Physics": false,
-      "Social/Life": false
-    },
-    "form2": {
-      "Agriculture": false,
-      "Bible Knowledge": false,
-      "Biology": false,
-      "Chemistry": false,
-      "Chichewa": false,
-      "English": false,
-      "Geography": false,
-      "History": false,
-      "Mathematics": false,
-      "Physics": false,
-      "Social/Life": false
-    },
-    "form4": {
-      "Agriculture": false,
-      "Bible Knowledge": false,
-      "Biology": false,
-      "Chemistry": false,
-      "Chichewa": false,
-      "English": false,
-      "Geography": false,
-      "History": false,
-      "Mathematics": false,
-      "Physics": false,
-      "Social/Life": false
-    }
-  },
   "passwordEnabled": false,
   "sneColumnVisible": false,
   "sexColumnVisible": false,
-  "setupPassword": "1972",
   "studentPasswords": {
     "form1": {
       "J8047/001": "000",
@@ -923,7 +922,14 @@
       "M8047/304": "000"
     }
   },
+  "setupPassword": "1972",
   "stampImage": "",
   "stampDate": "",
-  "stampEnabled": true
+  "stampEnabled": true,
+  "hideReaccessSetup": true,
+  "uploadToggles": {
+    "stamp": false,
+    "pasteStudent": false,
+    "passwordGen": false
+  }
 }
