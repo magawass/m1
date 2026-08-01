@@ -929,7 +929,7 @@
   "hideReaccessSetup": true,
   "uploadToggles": {
     "stamp": false,
-    "pasteStudent": true,
+    "pasteStudent": false,
     "passwordGen": false,
     "pasteGrades": true
   },
