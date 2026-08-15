@@ -172,7 +172,7 @@
     "form1": {
       "Agriculture": false,
       "Bible Knowledge": false,
-      "Biology": false,
+      "Biology": true,
       "Chemistry": false,
       "Chichewa": false,
       "English": false,
