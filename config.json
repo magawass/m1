@@ -186,14 +186,14 @@
       "Agriculture": false,
       "Bible Knowledge": false,
       "Biology": false,
-      "Chemistry": false,
+      "Chemistry": true,
       "Chichewa": false,
       "English": false,
       "Geography": false,
       "History": false,
-      "Mathematics": false,
-      "Physics": false,
-      "Social/Life": false
+      "Mathematics": true,
+      "Physics": true,
+      "Social/Life": true
     },
     "form2": {
       "Agriculture": false,
