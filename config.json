@@ -223,7 +223,7 @@
     }
   },
   "dayPasswordEnabled": true,
-  "odlPasswordEnabled": true,
+  "odlPasswordEnabled": false,
   "sneColumnVisible": false,
   "sexColumnVisible": false,
   "setupPassword": "1972",
