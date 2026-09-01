@@ -930,8 +930,9 @@
   "uploadToggles": {
     "stamp": false,
     "pasteStudent": false,
-    "passwordGen": false,
+    "passwordGen": true,
     "pasteGrades": false
   },
-  "hideReaccessSetup": true
+  "hideReaccessSetup": true,
+  "hideVoiceEntry": false
 }
