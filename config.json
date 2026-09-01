@@ -222,7 +222,7 @@
       "Social/Life": false
     }
   },
-  "passwordEnabled": true,
+  "passwordEnabled": false,
   "sneColumnVisible": false,
   "sexColumnVisible": false,
   "setupPassword": "1972",
