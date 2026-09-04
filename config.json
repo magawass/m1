@@ -946,10 +946,11 @@
   "stampDate": "",
   "stampEnabled": true,
   "uploadToggles": {
-    "stamp": false,
+    "stamp": true,
     "pasteStudent": false,
     "passwordGen": true,
     "pasteGrades": false
   },
-  "hideReaccessSetup": true
+  "hideReaccessSetup": true,
+  "hideVoiceEntry": false
 }
