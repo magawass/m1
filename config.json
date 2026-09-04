@@ -172,28 +172,28 @@
     "form1": {
       "Agriculture": false,
       "Bible Knowledge": false,
-      "Biology": true,
-      "Chemistry": true,
-      "Chichewa": true,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
       "English": false,
       "Geography": false,
-      "History": true,
-      "Mathematics": true,
-      "Physics": true,
-      "Social/Life": true
+      "History": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
     },
     "form3": {
       "Agriculture": false,
       "Bible Knowledge": false,
       "Biology": false,
-      "Chemistry": true,
+      "Chemistry": false,
       "Chichewa": false,
       "English": false,
       "Geography": false,
       "History": false,
-      "Mathematics": true,
-      "Physics": true,
-      "Social/Life": true
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
     },
     "form2": {
       "Agriculture": false,
@@ -951,6 +951,5 @@
     "passwordGen": true,
     "pasteGrades": false
   },
-  "hideReaccessSetup": true,
-  "hideVoiceEntry": false
+  "hideReaccessSetup": true
 }
